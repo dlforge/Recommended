@@ -1,2 +1,6 @@
-# Recommended
-我自己在用，使用体验很好的应用
+# 推荐应用
+
+## windows
+
+- 搜索工具 Listary
+- 
